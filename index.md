@@ -1,5 +1,5 @@
 # 自己紹介
-名前：くろさき ([\@sakikuroe](https://twitter.com/SakiKuroe))
+名前：黒江紗希 ([\@sakikuroe](https://twitter.com/SakiKuroe))
 
 好きなもの 
 

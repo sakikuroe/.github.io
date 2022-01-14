@@ -2,5 +2,5 @@
 
 - Create an html file:
 ```bash
-pandoc -s -M title:"Hello, world!" -o index.html index.md
+pandoc -s indexmd -o index.html
 ```

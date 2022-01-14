@@ -2,5 +2,5 @@
 
 - Create an html file:
 ```bash
-pandoc -s indexmd -o index.html
+pandoc -s index.md -o index.html -c styles/style.css
 ```

@@ -22,4 +22,6 @@ Links
 Toys
 
 - ["Hello, world" by wasm](https://sakikuroe.github.io/hello-by-rust-wasm/www/dist)
-- ["Primality test"](https://sakikuroe.github.io/primality-test/index.html)
+- [Primality test](https://sakikuroe.github.io/primality-test/index.html)
+- [Find GCD and LCM](https://sakikuroe.github.io/gcd-lcm-find/index.html)
+;dist

@@ -21,8 +21,3 @@ Links
 - [AtCoder](https://atcoder.jp/users/sakikuroe)
 - [Qiita](https://qiita.com/SakiKuroe)
 - [Mathlog](https://mathlog.info/users/2763/articles)
-
-Toys
-
-- [Primality test](https://sakikuroe.github.io/primality-test/index.html)
-- [Find GCD and LCM](https://sakikuroe.github.io/gcd-lcm-find/index.html)

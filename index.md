@@ -1,12 +1,13 @@
 ---
 documentclass: ltjsarticle
 title: Hello, world!
-author: Saki KUROE
 ---
+
 <link href="styles/style.css" rel="stylesheet"></link>
 
-# 自己紹介
-名前：黒江紗希 ([\@sakikuroe](https://twitter.com/SakiKuroe))
+---
+
+KUROE Saki（黒江紗希）
 
 好きなもの 
 
@@ -17,8 +18,9 @@ Links
 
 - [Twitter](https://twitter.com/SakiKuroe)
 - [GitHub](https://github.com/sakikuroe)
-- [AtCoder](https://atcoder.jp/users/Kurosaki96)
+- [AtCoder](https://atcoder.jp/users/sakikuroe)
 - [Qiita](https://qiita.com/SakiKuroe)
+- [Mathlog](https://mathlog.info/users/2763/articles)
 
 Toys
 
